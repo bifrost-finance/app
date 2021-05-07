@@ -676,6 +676,15 @@ packages:
       url: "https://github.com/AcalaNetwork/polkawallet_plugin_acala.git"
     source: git
     version: "0.1.6"
+  polkawallet_plugin_bifrost:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: "1b1c5bfb2a0636608183261d661e5a155e262981"
+      resolved-ref: "1b1c5bfb2a0636608183261d661e5a155e262981"
+      url: "https://github.com/bifrost-finance/polkawallet_plugin_bifrost.git"
+    source: git
+    version: "0.1.6"
   polkawallet_plugin_chainx:
     dependency: "direct main"
     description:
