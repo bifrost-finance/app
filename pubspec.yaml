@@ -52,7 +52,10 @@ dependencies:
     git:
       url: https://github.com/remzrn/polkawallet_plugin_edgeware.git
       ref: e05ce06f0a459ae0879a7adf56295d5e25eba8be
-
+  polkawallet_plugin_bifrost:
+    git:
+      url: https://github.com/bifrost-finance/polkawallet_plugin_bifrost.git
+      ref: 1b1c5bfb2a0636608183261d661e5a155e262981
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
